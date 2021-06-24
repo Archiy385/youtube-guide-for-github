@@ -1,0 +1,11 @@
+publish:
+git  clone (ssh)
+touch (file name and format)
+git add (file)  or to add all file once git add .
+git commit . or (file) -m "(your wish)"
+git status
+git push
+
+remove:
+git rm -r "(file)" or .
+
